@@ -18,6 +18,9 @@
 * [Reddit](https://www.reddit.com) - 涵盖各类兴趣主题的海外网络社区。
 * [Facebook](https://www.facebook.com) - 全球性社交网络服务平台。
 
+## 实用工具
+* [Notion](https://www.notion.so) - 集笔记、知识库、项目管理与数据库于一体的模块化协作工具。
+
 ## 小说阅读
 * [69书吧](https://www.69shuba.com) - 丰富的在线小说资源阅读平台。
 * [速读谷](https://www.sudugu.org) - 便捷的小说在线阅读网站。
