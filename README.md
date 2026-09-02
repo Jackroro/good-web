@@ -18,8 +18,8 @@
 * [Facebook](https://www.facebook.com) - 全球性社交网络服务平台。
 
 ## 小说阅读
-* [69书吧](https://www.69shuba.cx) - 丰富的在线小说资源阅读平台。
-* [速读谷](https://www.sudugu.com) - 便捷的小说在线阅读网站。
+* [69书吧](https://www.69shuba.com) - 丰富的在线小说资源阅读平台。
+* [速读谷](https://www.sudugu.org) - 便捷的小说在线阅读网站。
 
 ## 在线视频
 * [YouTube (油管)](https://www.youtube.com) - 全球最大的视频分享与观看平台。
