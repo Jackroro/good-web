@@ -27,6 +27,8 @@
 * [Notion](https://www.notion.so) - 集笔记、知识库、项目管理与数据库于一体的模块化协作工具。
 * [Gmail](https://mail.google.com) - Google 提供的安全高效、功能强大的电子邮箱服务。
 * [默沙东诊疗手册](https://www.msdmanuals.cn/) - 权威且免费的综合性医学与健康信息检索平台。
+* [谷歌翻译](https://translate.google.com/) - Google 提供的强大的翻译服务。
+
 
 ## 资源下载
 * [安娜的档案 (Anna's Archive)](https://monoskop.org/Anna%27s_Archive) - 开放的大型数字图书与学术论文影子图书馆搜索引擎。
