@@ -13,7 +13,7 @@
 ## 人工智能
 * [Gemini](https://gemini.google.com) - Google 推出的多模态 AI 助手。
 * [Google AI Studio](https://aistudio.google.com/) - Google 提供的生成式 AI 开发平台，主要面向开发者，功能比Gemini更专业，两者可一起使用。
-* [Duck.ai](https://duck.ai) - DuckDuckGo 推出的隐私型 AI 助手，可免费使用六种模型。
+* [Duck.ai](https://duck.ai) - DuckDuckGo 推出的隐私型 AI 助手，可免费使用六种模型。如果免费额度用完，清空缓存就能重置。
 
 ## 社交平台
 * [X (Twitter)](https://x.com) - 全球实时资讯与社交动态。
