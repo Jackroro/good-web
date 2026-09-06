@@ -30,6 +30,7 @@
 * [Gmail](https://mail.google.com) - Google 提供的安全高效、功能强大的电子邮箱服务。
 * [默沙东诊疗手册](https://www.msdmanuals.cn/) - 权威且免费的综合性医学与健康信息检索平台。
 * [谷歌翻译](https://translate.google.com/) - Google 提供的强大的翻译服务。
+* [维基百科](https://www.wikipedia.org/) - 由全球志愿者共同协作编写的自由、多语言在线网络百科全书。
 
 
 ## 资源下载
