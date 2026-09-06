@@ -12,6 +12,7 @@
 
 ## 人工智能
 * [Gemini](https://gemini.google.com) - Google 推出的多模态 AI 助手。
+* [Duck.ai](https://duck.ai) - DuckDuckGo 推出的隐私型 AI 助手，可免费使用六种模型。
 
 ## 社交平台
 * [X (Twitter)](https://x.com) - 全球实时资讯与社交动态。
